@@ -27,7 +27,7 @@ The goal is simple:
 
 ### 🔗 My LeetCode Profile
 
-👉 [Visit My Profile](YOUR_LEETCODE_PROFILE_LINK_HERE)
+👉 [Visit My Profile](https://leetcode.com/u/MohCodes100)
 
 ---
 
